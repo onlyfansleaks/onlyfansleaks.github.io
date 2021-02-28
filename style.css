@@ -4,7 +4,7 @@
   border-radius: 0.5em;;
   font-size: 1.2em;
   width: 20em;
-  transition: width 0.5s ease-in-out;
+  transition: width 1.5s ease-in-out;
 }
  
 #s:focus 
