@@ -1,10 +1,10 @@
 #s 
 {
   border: 2px solid #999;
-  border-radius: 0.5em;;
+  border-radius: 2.5em;
   font-size: 1.2em;
   width: 20em;
-  transition: width 1.5s ease-in-out;
+  transition: width 0.5s ease-in-out;
 }
  
 #s:focus 
